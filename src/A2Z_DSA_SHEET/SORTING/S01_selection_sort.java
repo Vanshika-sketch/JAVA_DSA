@@ -1,4 +1,4 @@
-package A2Z_DSA_SHEET.SELECTION_SORT;
+package A2Z_DSA_SHEET.SORTING;
 
 public class S01_selection_sort {
     public static void selection_sort(int[] arr){
