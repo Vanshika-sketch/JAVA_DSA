@@ -27,17 +27,12 @@ public class A02_secondLargest {
                 small=arr[i];
             } else if (arr[i]>small && arr[i]<ssmall) {
                 ssmall=arr[i];
-
             }
         }
         return ssmall;
-
-
-
     }
     public static void main(String[] args){
         int[] arr={22,45,65,73,76};
-
         System.out.println(SecondLargest(arr));
         System.out.println(secondSmall(arr));
 
