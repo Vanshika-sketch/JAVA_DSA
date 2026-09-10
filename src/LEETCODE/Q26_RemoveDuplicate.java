@@ -1,6 +1,6 @@
-package A2Z_DSA_SHEET.ARRAYS;
+package LEETCODE;
 
-public class A04_remove_Duplicate_from_Sorted_array {
+public class Q26_RemoveDuplicate{
     public static  int removeDuplicate(int[] arr) {
         int n= arr.length;
         int i=0;
