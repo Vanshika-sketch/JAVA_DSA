@@ -1,6 +1,6 @@
 package A2Z_DSA_SHEET.ARRAYS;
 
-public class count_odd_numbers_in_array {
+public class A07_count_odd_numbers_in_array {
     public static int oddNum(int[] arr){
         int n= arr.length;
         int cnt=0;

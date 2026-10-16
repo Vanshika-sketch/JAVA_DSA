@@ -1,6 +1,6 @@
 package A2Z_DSA_SHEET.ARRAYS;
 
-public class sum_0f_elements {
+public class A08_sum_0f_elements {
     public static int sum_of_elements(int[] arr) {
 
 
